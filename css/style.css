@@ -1,0 +1,137 @@
+  /*---------------------------Tag Selector-----------------*/
+body{
+  margin: 0;
+  text-align: center;
+}
+
+h1{
+  font-size: 5.625rem;
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  margin : auto auto 0 auto;
+}
+h2{
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-style: normal;
+  margin: 100px auto 30px auto;
+}
+
+h3{
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+  font-style: normal;
+}
+
+p{
+  font-family: 'Montserrat', sans-serif;
+  color: #40514E;
+}
+
+hr{
+  border-style: dotted none none none;
+  border-width: 5px;
+  width: 5%;
+  color: #66BFBF;
+}
+/*---------------------------class Selector-----------------*/
+
+.pro{
+  text-decoration: underline;
+
+}
+.top-container{
+  padding: 100px;
+  background-color: #EaF6F6;              /*#D4f3ef;*/
+
+}
+
+.chilli-description{
+  color : #40514E;
+
+}
+
+.cls_TopCloud{
+  position: absolute;
+  right: 300px;
+  top :50px;
+}
+
+.cls_bottomCloud{
+  position: absolute;
+  left: 300px;
+  top :225px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 150px auto 150px auto;
+  text-align: left;
+}
+
+.img_skills{
+  float: left;
+  width : 25%;
+  margin-right: 30px;
+}
+
+.img_chillies{
+  width : 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.profile-desc{
+  width: 50%;
+  margin: 20px auto 100px auto;
+}
+
+.spn_HotWings{
+  color: #11999E;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+}
+
+.middle-container{
+  margin : auto auto 100px auto;
+}
+
+.myButton {
+	box-shadow: 0 10px 14px -7px #66BFBF;
+	background:linear-gradient(to bottom, #66BFBF 5%, #66BFBF 100%);
+	background-color:#66BFBF;
+	border-radius:13px;
+	border:1px solid #66BFBF;
+	display:inline-block;
+	cursor:pointer;
+	color: white;;
+	font-family:Arial;
+	font-size:17px;
+	font-weight:bold;
+	padding:13px 14px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #66BFBF;
+  margin-top: 50px;
+}
+
+.bottom-container{
+  padding: 50px;
+}
+.footer-link{
+  padding: 30px;
+  color: #11999E;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+}
+.cls_copyrights{
+  color: white;
+  font-size: 0.75rem;
+}
+
+.contact-me{
+  margin : 100px auto;
+}
